@@ -396,6 +396,14 @@
           "description": "Databases and systems for managing and retrieving information",
           "companies": [
             {
+              "name": "Elasticsearch",
+              "description": "",
+              "logo": "./public/images/elasticsearch.png",
+              "link": "https://www.elastic.co/elasticsearch/vector-database",
+              "github": "https://github.com/elastic/elasticsearch",
+              "x": "@elastic"
+            },
+            {
               "name": "Pinecone",
               "description": "",
               "logo": "./public/images/pinecone.svg",
