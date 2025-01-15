@@ -1,18 +1,17 @@
 name: Generate and Commit Files
 
 on:
-  pull_request:
-    types: [closed]
+  workflow_dispatch:
+  push:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate-and-commit:
-    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -37,7 +36,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v7
         with:
-          token: ${{ secrets.GITHUBBOT_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           labels: auto-generated
           branch: update-artefacts
           signoff: true

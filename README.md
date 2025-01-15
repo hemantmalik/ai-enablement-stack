@@ -383,6 +383,22 @@ Bloop.ai provides a code understanding and modernization platform with AI-powere
 - [Website](https://bloop.ai/)
 </details>
 
+#### [Fabi](https://fabi.ai/)
+<details>
+
+<img src="./public/images/fabi.png" width="200" alt="Fabi">
+
+##### Category
+AGENT CONSUMER LAYER - Assistive Agents
+
+##### Description
+Fabi.ai combines SQL, Python and AI automation into one collaborative platform to help you conquer complex and ad hoc analyses, turning questions into answers.
+
+##### Links
+- [Website](https://fabi.ai/)
+- [X/Twitter](https://twitter.com/hqfabi)
+</details>
+
 ### Specialized Agents
 
 Purpose-built AI agents designed for specific functions, like PR reviews and similar.
@@ -928,6 +944,23 @@ Lightning AI provides a comprehensive platform for building AI products, featuri
 
 Development utilities, libraries and services for building AI applications
 
+#### [CopilotKit](https://copilotkit.ai/)
+<details>
+
+<img src="./public/images/copilot-kit.png" width="200" alt="CopilotKit">
+
+##### Category
+ENGINEERING LAYER - Tools
+
+##### Description
+CopilotKit is an open-source framework for building custom AI copilots and assistants into any application. Features include In-App AI Chatbot, Generative UI, Copilot Tasks, and RAG capabilities, with easy integration and full customization options.
+
+##### Links
+- [Website](https://copilotkit.ai/)
+- [GitHub](https://github.com/CopilotKit/CopilotKit)
+- [X/Twitter](https://twitter.com/CopilotKit)
+</details>
+
 #### [Ant Design X](https://x.ant.design/)
 <details>
 
@@ -1257,6 +1290,23 @@ Braintrust provides an end-to-end platform for evaluating and testing LLM applic
 - [X/Twitter](https://twitter.com/braintrustdata)
 </details>
 
+#### [Athina AI](https://www.athina.ai/)
+<details>
+
+<img src="./public/images/athina.png" width="200" alt="Athina AI">
+
+##### Category
+ENGINEERING LAYER - Testing & Quality Assurance
+
+##### Description
+Athina is a collaborative AI development platform designed for your team to build, test and monitor AI features.
+
+##### Links
+- [Website](https://www.athina.ai/)
+- [GitHub](https://github.com/athina-ai)
+- [X/Twitter](https://twitter.com/AthinaAI)
+</details>
+
 ## INTELLIGENCE LAYER
 
 ### Frameworks
@@ -1501,6 +1551,23 @@ LLMStack is an open-source platform for building AI agents, workflows, and appli
 - [Website](https://llmstack.ai/)
 - [GitHub](https://github.com/trypromptly/LLMStack)
 - [X/Twitter](https://twitter.com/llmstack)
+</details>
+
+#### [Graphlit](https://www.graphlit.com/)
+<details>
+
+<img src="./public/images/graphlit.svg" width="200" alt="Graphlit">
+
+##### Category
+INTELLIGENCE LAYER - Frameworks
+
+##### Description
+Graphlit is a serverless, batteries-included, RAG-as-a-Service platform. Graphlit manages data ingestion, vector embeddings, and LLM flows — allowing teams to quickly build AI apps and agents without the burden of complex data infrastructure.
+
+##### Links
+- [Website](https://www.graphlit.com/)
+- [GitHub](https://github.com/graphlit)
+- [X/Twitter](https://twitter.com/graphlit)
 </details>
 
 ### Knowledge Engines
@@ -1872,6 +1939,27 @@ Morph Labs provides infrastructure for developing and deploying autonomous softw
 ##### Links
 - [Website](https://morph.so/)
 - [X/Twitter](https://twitter.com/morph_labs)
+</details>
+
+### Data Ingestion & Transformation
+
+Services for preparing data for AI applications and training
+
+#### [Confluent](https://confluent.io/)
+<details>
+
+<img src="./public/images/confluent.png" width="200" alt="Confluent">
+
+##### Category
+INFRASTRUCTURE LAYER - Data Ingestion & Transformation
+
+##### Description
+Confluent is a cloud-native data streaming platform that helps companies access, store, and manage data to bring real-time, contextual, highly governed and trustworthy data to your AI systems and applications.
+
+##### Links
+- [Website](https://confluent.io/)
+- [GitHub](https://github.com/confluentinc)
+- [X/Twitter](https://twitter.com/confluentinc)
 </details>
 
 ### Model Access & Deployment
